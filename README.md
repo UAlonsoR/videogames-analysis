@@ -1,4 +1,4 @@
-## videogames-analysis
+# videogames-analysis
 Análisis de un dataset de ventas de videojuegos en las diferentes plataformas, para realizar una evaluación de mercado, y proponer una  campaña publicitaria.
 
 El objetivo de este proyecto es identificar patrones que permitan determinar si un videojuego es exitoso o no, con el fin de detectar títulos prometedores y apoyar la planificación de campañas publicitarias basadas en datos.
@@ -8,7 +8,7 @@ El conjunto de datos contiene información hasta el año 2016. Para este anális
 El enfoque principal del proyecto es adquirir experiencia práctica en el trabajo con datos reales, aplicando técnicas de limpieza de datos, análisis exploratorio y análisis estadístico. El año específico de predicción no es crítico; lo importante es comprender tendencias, relaciones y factores que influyen en las ventas de videojuegos.
 
 
-# Objetivos
+## Objetivos
 - Analizar el comportamiento histórico de las ventas de videojuegos
 
 - Identificar las plataformas y géneros más rentables
@@ -18,7 +18,7 @@ El enfoque principal del proyecto es adquirir experiencia práctica en el trabaj
 - Detectar patrones que ayuden a predecir el desempeño comercial de nuevos lanzamientos
 
 
-# Herramientas y Tecnologías
+## Herramientas y Tecnologías
 
 - Python
 
@@ -32,7 +32,7 @@ El enfoque principal del proyecto es adquirir experiencia práctica en el trabaj
 
 
 
-# Metodología
+## Metodología
 
 - Carga y exploración inicial de los datos
 
